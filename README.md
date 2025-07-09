@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iheer
+- 👋 Hi, I’m @iheer (Heer Modi)
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning netwroking fundamentals, cyber tools, operating systems
 - 💞️ I’m looking to collaborate on ...
